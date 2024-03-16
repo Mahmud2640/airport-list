@@ -1,160 +1,160 @@
 [
   {
-    "id": "5721",
+    "id": "0001",
     "code": "DAC",
     "name": "Hazrat Shahjalal International Airport",
     "city": "Dhaka",
     "country": "Bangladesh"
   },
   {
-    "id": "5797",
+    "id": "0002",
     "code": "KUL",
     "name": "Kuala Lumpur International Airport",
     "city": "Kuala Lumpur",
     "country": "Malaysia"
   },
   {
-    "id": "2483",
+    "id": "0003",
     "code": "JFK",
     "name": "John F Kennedy International Airport",
     "city": "New York",
     "country": "United States"
   },
   {
-    "id": "5494",
+    "id": "0004",
     "code": "DEL",
     "name": "Indira Gandhi International Airport",
     "city": "Delhi",
     "country": "India"
   },
   {
-    "id": "2227",
+    "id": "0005",
     "code": "DXB",
     "name": "Dubai International Airport",
     "city": "Dubai",
     "country": "United Arab Emirates"
   },
   {
-    "id": "5523",
+    "id": "0006",
     "code": "TRZ",
     "name": "Tiruchirapally Civil Airport Airport",
     "city": "Tiruchirappalli",
     "country": "India"
   },
   {
-    "id": "5488",
+    "id": "0007",
     "code": "ATQ",
     "name": "Sri Guru Ram Dass Jee International Airport",
     "city": "Amritsar",
     "country": "India"
   },
   {
-    "id": "2226",
+    "id": "0008",
     "code": "DCG",
     "name": "Dubai Creek SPB",
-    "city": "",
+    "city": "Dubai",
     "country": "United Arab Emirates"
   },
   {
-    "id": "2600",
+    "id": "0009",
     "code": "ABX",
     "name": "Albury Airport",
     "city": "Albury",
     "country": "Australia"
   },
   {
-    "id": "6667",
+    "id": "0010",
     "code": "AAA",
     "name": "Anaa",
     "city": "Anaa",
     "country": "French Polynesia"
   },
   {
-    "id": "4655",
+    "id": "0011",
     "code": "AAC",
     "name": "El Arish International Airport",
     "city": "El Arish",
     "country": "Egypt"
   },
   {
-    "id": "1873",
+    "id": "0012",
     "code": "AAD",
     "name": "Adado Airport",
     "city": "Adado",
     "country": "Somalia"
   },
   {
-    "id": "4197",
+    "id": "0013",
     "code": "AAE",
     "name": "Rabah Bitat Airport",
     "city": "Annaba",
     "country": "Algeria"
   },
   {
-    "id": "70",
+    "id": "0014",
     "code": "AAF",
     "name": "Apalachicola Regional Airport",
     "city": "Apalachicola",
     "country": "United States"
   },
   {
-    "id": "3157",
+    "id": "0015",
     "code": "AAH",
     "name": "Aachen Merzbruck Airport",
     "city": "Aachen",
     "country": "Germany"
   },
   {
-    "id": "5345",
+    "id": "0016",
     "code": "AAJ",
     "name": "Cayana Airstrip",
     "city": "Cayana Airstrip",
     "country": "Suriname"
   },
   {
-    "id": "6137",
+    "id": "0017",
     "code": "AAK",
     "name": "Buariki Airport",
     "city": "Buariki",
     "country": "Kiribati"
   },
   {
-    "id": "4807",
+    "id": "0018",
     "code": "AAL",
     "name": "Aalborg Airport",
     "city": "Aalborg",
     "country": "Denmark"
   },
   {
-    "id": "4982",
+    "id": "0019",
     "code": "AAM",
     "name": "Malamala Airport",
     "city": "Malamala",
     "country": "South Africa"
   },
   {
-    "id": "2229",
+    "id": "0020",
     "code": "AAN",
     "name": "Al Ain International Airport",
     "city": "Al Ain",
     "country": "United Arab Emirates"
   },
   {
-    "id": "6511",
+    "id": "0021",
     "code": "AAO",
     "name": "Anaco Airport",
     "city": "Anaco",
     "country": "Venezuela"
   },
   {
-    "id": "71",
+    "id": "0022",
     "code": "AAP",
     "name": "Andrau Airpark",
     "city": "Houston",
     "country": "United States"
   },
   {
-    "id": "4493",
+    "id": "0023",
     "code": "AAQ",
     "name": "Anapa Vityazevo Airport",
     "city": "Anapa",
@@ -9781,7 +9781,7 @@
     "city": "Canefield",
     "country": "Dominica"
   },
- 
+
   {
     "id": "5595",
     "code": "DCI",
@@ -43064,7 +43064,7 @@
     "city": "Tarawa",
     "country": "Kiribati"
   },
- 
+
   {
     "id": "6454",
     "code": "TSA",
