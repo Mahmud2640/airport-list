@@ -1817,7 +1817,7 @@
     "id": "154",
     "code": "ANW",
     "name": "Ainsworth Municipal Airport",
-    "city": "",
+    "city": "Nebraska",
     "country": "United States"
   },
   {
@@ -1831,14 +1831,14 @@
     "id": "155",
     "code": "ANY",
     "name": "Anthony Municipal Airport",
-    "city": "",
+    "city": "Anthony",
     "country": "United States"
   },
   {
     "id": "2380",
     "code": "ANZ",
     "name": "Angus Downs Airport",
-    "city": "",
+    "city": "Angus Downs",
     "country": "Australia"
   },
   {
@@ -1971,7 +1971,7 @@
     "id": "165",
     "code": "APH",
     "name": "A P Hill AAF (Fort A P Hill) Airport",
-    "city": "",
+    "city": "Virginia",
     "country": "United States"
   },
   {
@@ -2020,7 +2020,7 @@
     "id": "1900",
     "code": "APR",
     "name": "April River Airport",
-    "city": "",
+    "city": "Papua New Guinea",
     "country": "Papua New Guinea"
   },
   {
@@ -2034,7 +2034,7 @@
     "id": "170",
     "code": "APV",
     "name": "Apple Valley Airport",
-    "city": "",
+    "city": "California",
     "country": "United States"
   },
   {
@@ -2075,7 +2075,7 @@
   {
     "id": "6277",
     "code": "AQI",
-    "name": "Al Qaisumah/Hafr Al Batin Airport",
+    "name": "Al Qaisumah-Hafar Al Batin Airport",
     "city": "Hafr Al-batin",
     "country": "Saudi Arabia"
   },
@@ -2132,7 +2132,7 @@
     "id": "173",
     "code": "ARG",
     "name": "Walnut Ridge Regional Airport",
-    "city": "",
+    "city": "Walnut Ridge",
     "country": "United States"
   },
   {
@@ -2194,7 +2194,7 @@
   {
     "id": "178",
     "code": "ARV",
-    "name": "Lakeland-Noble F. Lee Memorial field",
+    "name": "Lakeland Airport",
     "city": "Minocqua - Woodruff",
     "country": "United States"
   },
@@ -2222,14 +2222,14 @@
   {
     "id": "6685",
     "code": "ASD",
-    "name": "Andros Town Intl Airport",
+    "name": "Andros Town Airport",
     "city": "Andros Town",
     "country": "Bahamas"
   },
   {
     "id": "180",
     "code": "ASE",
-    "name": "Aspen-Pitkin Co/Sardy Field",
+    "name": "Aspen/Pitkin County Airport",
     "city": "Aspen",
     "country": "United States"
   },
@@ -2272,7 +2272,7 @@
     "id": "183",
     "code": "ASL",
     "name": "Harrison County Airport",
-    "city": "",
+    "city": "Nebraska",
     "country": "United States"
   },
   {
@@ -2306,8 +2306,8 @@
   {
     "id": "67",
     "code": "ASQ",
-    "name": "Austin Airport",
-    "city": "",
+    "name": "Austin-Bergstrom International Airport",
+    "city": "Texas",
     "country": "United States"
   },
   {
@@ -2349,14 +2349,14 @@
     "id": "189",
     "code": "ASX",
     "name": "John F Kennedy Memorial Airport",
-    "city": "",
+    "city": "Wisconsin",
     "country": "United States"
   },
   {
     "id": "191",
     "code": "ASY",
     "name": "Ashley Municipal Airport",
-    "city": "",
+    "city": "North Dakota",
     "country": "United States"
   },
   {
@@ -2391,7 +2391,7 @@
     "id": "65",
     "code": "ATE",
     "name": "Antlers Municipal Airport",
-    "city": "",
+    "city": "Oklahoma",
     "country": "United States"
   },
   {
@@ -2454,7 +2454,7 @@
     "id": "1901",
     "code": "ATN",
     "name": "Namatanai Airport",
-    "city": "",
+    "city": "Namatanai",
     "country": "Papua New Guinea"
   },
   {
@@ -2483,7 +2483,7 @@
     "id": "195",
     "code": "ATS",
     "name": "Artesia Municipal Airport",
-    "city": "",
+    "city": "Artesia",
     "country": "United States"
   },
   {
