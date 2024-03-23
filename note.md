@@ -1,7 +1,7 @@
 {
-"id": "4958",
-"code": "BFN",
-"name": "Bram Fischer International Airport",
-"city": "Bloemfontein",
-"country": "South Africa"
+"id": "5118",
+"code": "CHR",
+"name": "ChÃ¢teauroux-DÃ©ols \"Marcel Dassault\" Airport",
+"city": "Chateauroux",
+"country": "France"
 },

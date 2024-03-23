@@ -3889,7 +3889,7 @@
   {
     "id": "5898",
     "code": "BGC",
-    "name": "BraganÃ§a Airport",
+    "name": "Braganca Airport",
     "city": "Braganca",
     "country": "Portugal"
   },
@@ -3917,7 +3917,7 @@
   {
     "id": "5998",
     "code": "BGG",
-    "name": "BingÃ¶l Ã‡eltiksuyu Airport",
+    "name": "Bingol Airport",
     "city": "Bingol",
     "country": "Turkey"
   },
@@ -4330,7 +4330,7 @@
   {
     "id": "4817",
     "code": "BJF",
-    "name": "BÃ¥tsfjord Airport",
+    "name": "Batsfjord Airport",
     "city": "Batsfjord",
     "country": "Norway"
   },
@@ -4428,7 +4428,7 @@
   {
     "id": "2930",
     "code": "BJX",
-    "name": "Del BajÃ­o International Airport",
+    "name": "Bajio International Airport",
     "city": "Del Bajio",
     "country": "Mexico"
   },
@@ -4589,7 +4589,7 @@
   {
     "id": "2256",
     "code": "BLA",
-    "name": "General JosÃ© Antonio Anzoategui International Airport",
+    "name": "General Jose Antonio Anzoategui International Airport",
     "city": "Barcelona",
     "country": "Venezuela"
   },
@@ -4946,7 +4946,7 @@
   {
     "id": "4814",
     "code": "BNN",
-    "name": "BrÃ¸nnÃ¸ysund Airport",
+    "name": "Bronnoysund Airport",
     "city": "Bronnoysund",
     "country": "Norway"
   },
@@ -5030,7 +5030,7 @@
   {
     "id": "5069",
     "code": "BOD",
-    "name": "Bordeaux-MÃ©rignac Airport",
+    "name": "Bordeaux Merignac Airport",
     "city": "Bordeaux",
     "country": "France"
   },
@@ -5079,7 +5079,7 @@
   {
     "id": "4815",
     "code": "BOO",
-    "name": "BodÃ¸ Airport",
+    "name": "Bodo Airport",
     "city": "Bodo",
     "country": "Norway"
   },
@@ -5170,7 +5170,7 @@
   {
     "id": "3384",
     "code": "BPG",
-    "name": "Barra do GarÃ§as Airport",
+    "name": "Barra do Garcas Airport",
     "city": "Barra Do Garcas",
     "country": "Brazil"
   },
@@ -5359,7 +5359,7 @@
   {
     "id": "5579",
     "code": "BRI",
-    "name": "Bari Karol WojtyÅ‚a Airport",
+    "name": "Bari Karol Wojtyla Airport",
     "city": "Bari",
     "country": "Italy"
   },
@@ -5408,7 +5408,7 @@
   {
     "id": "5872",
     "code": "BRQ",
-    "name": "Brno-TuÅ™any Airport",
+    "name": "Brno Turany Airport",
     "city": "Brno",
     "country": "Czech Republic"
   },
@@ -5485,7 +5485,7 @@
   {
     "id": "4072",
     "code": "BSC",
-    "name": "JosÃ© Celestino Mutis Airport",
+    "name": "Jose Celestino Mutis Airport",
     "city": "Bahia Solano",
     "country": "Colombia"
   },
@@ -5674,7 +5674,7 @@
   {
     "id": "6012",
     "code": "BTS",
-    "name": "M. R. Å tefÃ¡nik Airport",
+    "name": "Bratislava Airport",
     "city": "Bratislava",
     "country": "Slovakia"
   },
@@ -5800,7 +5800,7 @@
   {
     "id": "4073",
     "code": "BUN",
-    "name": "Gerardo Tobar LÃ³pez Airport",
+    "name": "Gerardo Tobar Lopez Airport",
     "city": "Buenaventura",
     "country": "Colombia"
   },
@@ -5884,7 +5884,7 @@
   {
     "id": "5132",
     "code": "BVA",
-    "name": "Paris Beauvais TillÃ© Airport",
+    "name": "Beauvais Tille Airport",
     "city": "Beauvais",
     "country": "France"
   },
@@ -5912,14 +5912,14 @@
   {
     "id": "4818",
     "code": "BVG",
-    "name": "BerlevÃ¥g Airport",
+    "name": "Berlevag Airport",
     "city": "Berlevag",
     "country": "Norway"
   },
   {
     "id": "3494",
     "code": "BVH",
-    "name": "Brigadeiro CamarÃ£o Airport",
+    "name": "Brigadeiro Camarao Airport",
     "city": "Vilhena",
     "country": "Brazil"
   },
@@ -5961,7 +5961,7 @@
   {
     "id": "2386",
     "code": "BVW",
-    "name": "[Duplicate] Batavia Downs Airport",
+    "name": "Batavia Downs Airport",
     "city": "",
     "country": "Australia"
   },
@@ -6157,7 +6157,7 @@
   {
     "id": "4853",
     "code": "BXP",
-    "name": "BiaÅ‚a Podlaska Airfield",
+    "name": "Biala Podlaska Airport",
     "city": "Biala Podlaska",
     "country": "Poland"
   },
@@ -6276,7 +6276,7 @@
   {
     "id": "4797",
     "code": "BYR",
-    "name": "LÃ¦sÃ¸ Airport",
+    "name": "Los Angeles International Airport",
     "city": "Laeso",
     "country": "Denmark"
   },
@@ -6409,7 +6409,7 @@
   {
     "id": "5129",
     "code": "BZR",
-    "name": "BÃ©ziers-Vias Airport",
+    "name": "Beziers Cap d'Agde Airport",
     "city": "Beziers",
     "country": "France"
   },
@@ -6486,7 +6486,7 @@
   {
     "id": "5387",
     "code": "CAH",
-    "name": "CÃ  Mau Airport",
+    "name": "Ca Mau Airport",
     "city": "Ca Mau",
     "country": "Vietnam"
   },
@@ -6640,8 +6640,8 @@
   {
     "id": "4206",
     "code": "CBH",
-    "name": "BÃ©char Boudghene Ben Ali Lotfi Airport",
-    "city": "Béchar",
+    "name": "Boudghene Ben Ali Lotfi Airport",
+    "city": "Bechar",
     "country": "Algeria"
   },
   {
@@ -6766,7 +6766,7 @@
   {
     "id": "3536",
     "code": "CCI",
-    "name": "ConcÃ³rdia Airport",
+    "name": "Concordia Airport",
     "city": "Concordia",
     "country": "Brazil"
   },
@@ -6794,7 +6794,7 @@
   {
     "id": "3393",
     "code": "CCM",
-    "name": "DiomÃ­cio Freitas Airport",
+    "name": "Diomicio Freitas Airport",
     "city": "Criciuma",
     "country": "Brazil"
   },
@@ -6822,7 +6822,7 @@
   {
     "id": "6746",
     "code": "CCS",
-    "name": "Simon Bolivar Airport ",
+    "name": "Simon Bolivar Airport",
     "city": "Caracas",
     "country": "Venezuela"
   },
@@ -6843,7 +6843,7 @@
   {
     "id": "3560",
     "code": "CCX",
-    "name": "CÃ¡ceres Airport",
+    "name": "Ceres Airport",
     "city": "Caceres",
     "country": "Brazil"
   },
@@ -6920,7 +6920,7 @@
   {
     "id": "3367",
     "code": "CDJ",
-    "name": "ConceiÃ§Ã£o do Araguaia Airport",
+    "name": "Conceicao do Araguaia Airport",
     "city": "Conceicao Do Araguaia",
     "country": "Brazil"
   },
@@ -6962,8 +6962,8 @@
   {
     "id": "2263",
     "code": "CDT",
-    "name": "CastellÃ³n-Costa Azahar Airport",
-    "city": "Castellón de la Plana",
+    "name": "Castellon Costa Azahar Airport",
+    "city": "Castellon de la Plana",
     "country": "Spain"
   },
   {
@@ -7067,7 +7067,7 @@
   {
     "id": "2909",
     "code": "CEN",
-    "name": "Ciudad ObregÃ³n International Airport",
+    "name": "Ciudad Obregon International Airport",
     "city": "Ciudad Obregon",
     "country": "Mexico"
   },
@@ -7144,7 +7144,7 @@
   {
     "id": "3388",
     "code": "CFC",
-    "name": "CaÃ§ador Airport",
+    "name": "Cacador Airport",
     "city": "Cacador",
     "country": "Brazil"
   },
