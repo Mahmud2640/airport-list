@@ -3350,7 +3350,7 @@
   {
     "id": "2384",
     "code": "BCK",
-    "name": "[Duplicate] Bolwarra Airport",
+    "name": "Bolwarra Airport",
     "city": "",
     "country": "Australia"
   },
@@ -3518,14 +3518,14 @@
   {
     "id": "241",
     "code": "BDR",
-    "name": "Igor I Sikorsky Memorial Airport",
+    "name": "Sikorsky Memorial Airport",
     "city": "Stratford",
     "country": "United States"
   },
   {
     "id": "5583",
     "code": "BDS",
-    "name": "Brindisi â€“ Salento Airport",
+    "name": "Brindisi Papola Casale Airport",
     "city": "Brindisi",
     "country": "Italy"
   },
@@ -3623,7 +3623,7 @@
   {
     "id": "3372",
     "code": "BEL",
-    "name": "Val de Cans/JÃºlio Cezar Ribeiro International Airport",
+    "name": "Belem/Val-de-Cans International Airport",
     "city": "Belem",
     "country": "Brazil"
   },
@@ -3728,7 +3728,7 @@
   {
     "id": "2385",
     "code": "BFC",
-    "name": "[Duplicate] Bloomfield Airport",
+    "name": "Bloomfield Airport",
     "city": "Bloomfield",
     "country": "Australia"
   },
@@ -3749,7 +3749,7 @@
   {
     "id": "251",
     "code": "BFF",
-    "name": "Western Neb. Rgnl/William B. Heilig Airport",
+    "name": "Western Nebraska Regional Airport",
     "city": "Scottsbluff",
     "country": "United States"
   },
@@ -3798,7 +3798,7 @@
   {
     "id": "256",
     "code": "BFM",
-    "name": "Mobile Downtown Airport",
+    "name": "Mobile International Airport",
     "city": "Mobile",
     "country": "United States"
   },
@@ -3826,8 +3826,8 @@
   {
     "id": "4185",
     "code": "BFQ",
-    "name": "Bahia PiÃ±a Airport",
-    "city": "Bahia Piña",
+    "name": "Bahia Pina Airport",
+    "city": "Puerto Pina",
     "country": "Panama"
   },
   {
