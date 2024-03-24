@@ -7473,7 +7473,7 @@
   {
     "id": "5118",
     "code": "CHR",
-    "name": "ChÃ¢teauroux-DÃ©ols \"Marcel Dassault\" Airport",
+    "name": "Chateauroux-Centre 'Marcel Dassault' Airport",
     "city": "Chateauroux",
     "country": "France"
   },
@@ -7501,7 +7501,7 @@
   {
     "id": "4169",
     "code": "CHX",
-    "name": "Cap Manuel NiÃ±o International Airport",
+    "name": "Changuinola 'Capitan Manuel Nino' International Airport",
     "city": "Changuinola",
     "country": "Panama"
   },
@@ -7522,7 +7522,7 @@
   {
     "id": "1339",
     "code": "CIA",
-    "name": "Ciampinoâ€“G. B. Pastine International Airport",
+    "name": "Giovan Battista Pastine International Airport",
     "city": "Rome",
     "country": "Italy"
   },
@@ -7557,7 +7557,7 @@
   {
     "id": "3349",
     "code": "CIJ",
-    "name": "CapitÃ¡n AnÃ­bal Arab Airport",
+    "name": "Captain Anibal Arab Airport",
     "city": "Cobija",
     "country": "Bolivia"
   },
@@ -7683,7 +7683,7 @@
   {
     "id": "5756",
     "code": "CJJ",
-    "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+    "name": "Cheongju International Airport",
     "city": "Chongju",
     "country": "South Korea"
   },
@@ -7711,7 +7711,7 @@
   {
     "id": "2911",
     "code": "CJS",
-    "name": "Abraham GonzÃ¡lez International Airport",
+    "name": "Ciudad Juarez International Airport",
     "city": "Ciudad Juarez",
     "country": "Mexico"
   },
@@ -7809,7 +7809,7 @@
   {
     "id": "3392",
     "code": "CKS",
-    "name": "CarajÃ¡s Airport",
+    "name": "Carajas Airport",
     "city": "Parauapebas",
     "country": "Brazil"
   },
@@ -7823,7 +7823,7 @@
   {
     "id": "419",
     "code": "CKV",
-    "name": "Clarksvilleâ€“Montgomery County Regional Airport",
+    "name": "Clarksville-Montgomery County Regional Airport",
     "city": "Clarksville",
     "country": "United States"
   },
@@ -7837,7 +7837,7 @@
   {
     "id": "5969",
     "code": "CKZ",
-    "name": "Ã‡anakkale Airport",
+    "name": "Canakkale Airport",
     "city": "Canakkale",
     "country": "Turkey"
   },
@@ -8019,14 +8019,14 @@
   {
     "id": "5105",
     "code": "CMF",
-    "name": "ChambÃ©ry-Savoie Airport",
+    "name": "Chambery Airport",
     "city": "Chambery",
     "country": "France"
   },
   {
     "id": "3396",
     "code": "CMG",
-    "name": "CorumbÃ¡ International Airport",
+    "name": "Corumba International Airport",
     "city": "Corumba",
     "country": "Brazil"
   },
@@ -8152,7 +8152,7 @@
   {
     "id": "5924",
     "code": "CND",
-    "name": "Mihail KogÄƒlniceanu International Airport",
+    "name": "Mihail Kogalniceanu International Airport",
     "city": "Constanta",
     "country": "Romania"
   },
@@ -8173,7 +8173,7 @@
   {
     "id": "5071",
     "code": "CNG",
-    "name": "Cognac-ChÃ¢teaubernard (BA 709) Air Base",
+    "name": "Cognac-Chateaubernard Air Base",
     "city": "Cognac",
     "country": "France"
   },
@@ -8250,8 +8250,8 @@
   {
     "id": "6481",
     "code": "CNR",
-    "name": "ChaÃ±aral Airport",
-    "city": "Chañaral",
+    "name": "Chanaral Airportt",
+    "city": "Chanaral",
     "country": "Chile"
   },
   {
@@ -8446,7 +8446,7 @@
   {
     "id": "6025",
     "code": "COZ",
-    "name": "Constanza - ExpediciÃ³n 14 de Junio National Airport",
+    "name": "Constanza National Airport",
     "city": "Constanza",
     "country": "Dominican Republic"
   },
@@ -8460,7 +8460,7 @@
   {
     "id": "4074",
     "code": "CPB",
-    "name": "CapurganÃ¡ Airport",
+    "name": "Capurgana Airport",
     "city": "Capurgana",
     "country": "Colombia"
   },
@@ -8481,7 +8481,7 @@
   {
     "id": "2910",
     "code": "CPE",
-    "name": "Ingeniero Alberto AcuÃ±a Ongay International Airport",
+    "name": "Campeche International Airport",
     "city": "Campeche",
     "country": "Mexico"
   },
@@ -8544,7 +8544,7 @@
   {
     "id": "3432",
     "code": "CPV",
-    "name": "Presidente JoÃ£o Suassuna Airport",
+    "name": "Presidente Joao Suassuna Airport",
     "city": "Campina Grande",
     "country": "Brazil"
   },
@@ -8586,7 +8586,7 @@
   {
     "id": "2389",
     "code": "CQP",
-    "name": "[Duplicate] Cape Flattery Airport",
+    "name": "Cape Flattery Airport",
     "city": "",
     "country": "Australia"
   },
@@ -8754,7 +8754,7 @@
   {
     "id": "5926",
     "code": "CSB",
-    "name": "CaransebeÅŸ Airport",
+    "name": "Caransebes Airport",
     "city": "Caransebes",
     "country": "Romania"
   },
@@ -8852,7 +8852,7 @@
   {
     "id": "3015",
     "code": "CSZ",
-    "name": "[Duplicate] Brigadier Hector Ruiz Airport",
+    "name": "Brigadier Hector Ruiz Airport",
     "city": "Colonel Suarez",
     "country": "Argentina"
   },
@@ -8881,7 +8881,7 @@
     "id": "4168",
     "code": "CTD",
     "name": "Alonso Valderrama Airport",
-    "city": "Chitré",
+    "city": "Chitre",
     "country": "Panama"
   },
   {
@@ -8894,7 +8894,7 @@
   {
     "id": "4077",
     "code": "CTG",
-    "name": "Rafael NuÃ±ez International Airport",
+    "name": "Rafael Nunez International Airport",
     "city": "Cartagena",
     "country": "Colombia"
   },
@@ -8943,7 +8943,7 @@
   {
     "id": "2393",
     "code": "CTR",
-    "name": "[Duplicate] Cattle Creek Airport",
+    "name": "Cattle Creek Airport",
     "city": "",
     "country": "Australia"
   },
@@ -9062,14 +9062,14 @@
   {
     "id": "2960",
     "code": "CUN",
-    "name": "CancÃºn International Airport",
+    "name": "Cancun International Airport",
     "city": "Cancun",
     "country": "Mexico"
   },
   {
     "id": "6519",
     "code": "CUP",
-    "name": "General Francisco BermÃºdez Airport",
+    "name": "General Jose Francisco Bermudez Airport",
     "city": "Carupano",
     "country": "Venezuela"
   },
@@ -9118,8 +9118,8 @@
   {
     "id": "4081",
     "code": "CVE",
-    "name": "CoveÃ±as Airport",
-    "city": "Coveñas",
+    "name": "Covenas Airport",
+    "city": "Covenas",
     "country": "Colombia"
   },
   {
@@ -9482,7 +9482,7 @@
   {
     "id": "6520",
     "code": "CZE",
-    "name": "JosÃ© Leonardo Chirinos Airport",
+    "name": "Jose Leonardo Chirino Airport",
     "city": "Coro",
     "country": "Venezuela"
   },
@@ -9503,7 +9503,7 @@
   {
     "id": "4164",
     "code": "CZJ",
-    "name": "CorazÃ³n de JesÃºs Airport",
+    "name": "Corazon de Jesus Airport",
     "city": "Corazon de Jesus",
     "country": "Panama"
   },
@@ -9559,7 +9559,7 @@
   {
     "id": "4855",
     "code": "CZW",
-    "name": "CzÄ™stochowa-Rudniki",
+    "name": "Czastochowa-Rudniki",
     "city": "RUDNIKI",
     "country": "Poland"
   },

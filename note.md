@@ -1,7 +1,7 @@
 {
-"id": "5118",
-"code": "CHR",
-"name": "ChÃ¢teauroux-DÃ©ols \"Marcel Dassault\" Airport",
-"city": "Chateauroux",
-"country": "France"
+"id": "5270",
+"code": "DKR",
+"name": "LÃ©opold SÃ©dar Senghor International Airport",
+"city": "Dakar",
+"country": "Senegal"
 },
