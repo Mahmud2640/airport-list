@@ -10885,7 +10885,7 @@
   {
     "id": "537",
     "code": "DTL",
-    "name": "Detroit Lakes Airport - Wething Field",
+    "name": "Detroit Lakes Airport",
     "city": "",
     "country": "United States"
   },
@@ -10983,7 +10983,7 @@
   {
     "id": "3144",
     "code": "DUS",
-    "name": "DÃ¼sseldorf Airport",
+    "name": "Dusseldorf Airport",
     "city": "Duesseldorf",
     "country": "Germany"
   },
@@ -11081,7 +11081,7 @@
   {
     "id": "2520",
     "code": "DWS",
-    "name": "Lake Buena Vista STOLport",
+    "name": "Walt Disney World Airport",
     "city": "Orlando",
     "country": "United States"
   },
@@ -11229,7 +11229,7 @@
   {
     "id": "5624",
     "code": "EBA",
-    "name": "Marina Di Campo Airport",
+    "name": "Marina di Campo Airport",
     "city": "Marina Di Campo",
     "country": "Italy"
   },
@@ -11306,8 +11306,8 @@
   {
     "id": "5121",
     "code": "EBU",
-    "name": "Saint-Ã‰tienne-BouthÃ©on Airport",
-    "city": "St-Etienne",
+    "name": "Saint-Etienne-Boutheon Airport",
+    "city": "Saint-Etienne",
     "country": "France"
   },
   {
@@ -11418,7 +11418,7 @@
   {
     "id": "5995",
     "code": "EDO",
-    "name": "BalÄ±kesir KÃ¶rfez Airport",
+    "name": "Balikesir Koca Seyit Airport",
     "city": "Balikesir Korfez",
     "country": "Turkey"
   },
@@ -11502,7 +11502,7 @@
   {
     "id": "5070",
     "code": "EGC",
-    "name": "Bergerac-RoumaniÃ¨re Airport",
+    "name": "Bergerac Dordogne Périgord Airport",
     "city": "Bergerac",
     "country": "France"
   },
@@ -11558,7 +11558,7 @@
   {
     "id": "3246",
     "code": "EGS",
-    "name": "EgilsstaÃ°ir Airport",
+    "name": "Egilsstaoir Airport",
     "city": "Egilsstadir",
     "country": "Iceland"
   },
@@ -11649,7 +11649,7 @@
   {
     "id": "4083",
     "code": "EJA",
-    "name": "YariguÃ­es Airport",
+    "name": "Yariguies Airport",
     "city": "Barrancabermeja",
     "country": "Colombia"
   },
@@ -11852,7 +11852,7 @@
   {
     "id": "6801",
     "code": "ELT",
-    "name": "El Tor/Tour Sinai Airport",
+    "name": "El Tor Airport",
     "city": "El-tor",
     "country": "Egypt"
   },
@@ -11957,7 +11957,7 @@
   {
     "id": "4028",
     "code": "EMN",
-    "name": "NÃ©ma Airport",
+    "name": "Nema Airport",
     "city": "Nema",
     "country": "Mauritania"
   },
@@ -12062,7 +12062,7 @@
   {
     "id": "6434",
     "code": "ENO",
-    "name": "EncarnaciÃ³n Airport",
+    "name": "Teniente Amin Ayub Gonzalez Airport",
     "city": "Encarnacion",
     "country": "Paraguay"
   },
@@ -12167,7 +12167,7 @@
   {
     "id": "5173",
     "code": "EPL",
-    "name": "Ã‰pinal-Mirecourt Airport",
+    "name": "Epinal - Mirecourt Airport",
     "city": "Epinal",
     "country": "France"
   },
@@ -12188,7 +12188,7 @@
   {
     "id": "4622",
     "code": "EPU",
-    "name": "PÃ¤rnu Airport",
+    "name": "Parnu Airport",
     "city": "Parnu",
     "country": "Estonia"
   },
@@ -12272,7 +12272,7 @@
   {
     "id": "3551",
     "code": "ERN",
-    "name": "EirunepÃ© Airport",
+    "name": "Eirunepe Airport",
     "city": "Eirunepe",
     "country": "Brazil"
   },
@@ -12321,7 +12321,7 @@
   {
     "id": "5946",
     "code": "ESB",
-    "name": "EsenboÄŸa International Airport",
+    "name": "Ankara Esenboga Airport",
     "city": "Ankara",
     "country": "Turkey"
   },
@@ -12356,7 +12356,7 @@
   {
     "id": "6436",
     "code": "ESG",
-    "name": "Dr. Luis Maria ArgaÃ±a International Airport",
+    "name": "Dr. Luis Maria Argana International Airport",
     "city": "Mariscal Estigarribia",
     "country": "Paraguay"
   },
@@ -12412,7 +12412,7 @@
   {
     "id": "6467",
     "code": "ESR",
-    "name": "Ricardo GarcÃ­a Posada Airport",
+    "name": "Ricardo Garcaa Posada Airport",
     "city": "El Salvador",
     "country": "Chile"
   },
@@ -12517,7 +12517,7 @@
   {
     "id": "3155",
     "code": "EUM",
-    "name": "NeumÃ¼nster Airport",
+    "name": "Neumuenster Airport",
     "city": "Neumuenster",
     "country": "Germany"
   },
@@ -12525,7 +12525,7 @@
     "id": "5268",
     "code": "EUN",
     "name": "Hassan I Airport",
-    "city": "El Aaiún",
+    "city": "El Aaiun",
     "country": "Western Sahara"
   },
   {
@@ -12580,7 +12580,7 @@
   {
     "id": "5133",
     "code": "EVX",
-    "name": "Ã‰vreux-Fauville (BA 105) Air Base",
+    "name": "Evreux-Fauville Air Base",
     "city": "Evreux",
     "country": "France"
   },
@@ -12664,7 +12664,7 @@
   {
     "id": "5976",
     "code": "EZS",
-    "name": "ElazÄ±ÄŸ Airport",
+    "name": "Elazig Airport",
     "city": "Elazig",
     "country": "Turkey"
   },
@@ -12804,7 +12804,7 @@
   {
     "id": "3539",
     "code": "FBE",
-    "name": "Francisco BeltrÃ£o Airport",
+    "name": "Francisco Beltrao Airport",
     "city": "Francisco Beltrao",
     "country": "Brazil"
   },
@@ -12895,7 +12895,7 @@
   {
     "id": "1340",
     "code": "FCO",
-    "name": "Leonardo da Vinciâ€“Fiumicino Airport",
+    "name": "Leonardo da Vinci-Fiumicino Airport",
     "city": "Rome",
     "country": "Italy"
   },
@@ -12923,14 +12923,14 @@
   {
     "id": "4813",
     "code": "FDE",
-    "name": "FÃ¸rde Airport",
+    "name": "Forde Airport",
     "city": "Forde",
     "country": "Norway"
   },
   {
     "id": "6549",
     "code": "FDF",
-    "name": "Martinique AimÃ© CÃ©saire International Airport",
+    "name": "Martinique Aime Cesaire International Airport",
     "city": "Fort-de-france",
     "country": "Martinique"
   },
@@ -12972,7 +12972,7 @@
   {
     "id": "3519",
     "code": "FEC",
-    "name": "JoÃ£o Durval Carneiro Airport",
+    "name": "Feira de Santana Airport",
     "city": "Feira de Santana",
     "country": "Brazil"
   },
@@ -12986,7 +12986,7 @@
   {
     "id": "3201",
     "code": "FEL",
-    "name": "FÃ¼rstenfeldbruck Airport",
+    "name": "Fliegerhorst Furstenfeldbruck Airport",
     "city": "Fuerstenfeldbruck",
     "country": "Germany"
   },
@@ -13014,7 +13014,7 @@
   {
     "id": "4039",
     "code": "FEZ",
-    "name": "SaÃ¯ss Airport",
+    "name": "Fes Sais International Airport",
     "city": "Fes",
     "country": "Morocco"
   },
@@ -13042,7 +13042,7 @@
   {
     "id": "661",
     "code": "FFM",
-    "name": "Fergus Falls Municipal Airport - Einar Mickelson Field",
+    "name": "Fergus Falls Municipal Airport-Einar Mickelson Field",
     "city": "",
     "country": "United States"
   },
@@ -13063,7 +13063,7 @@
   {
     "id": "6470",
     "code": "FFU",
-    "name": "FutaleufÃº Airport",
+    "name": "Futaleufu Airfield Airport",
     "city": "Futaleufu",
     "country": "Chile"
   },
@@ -13252,7 +13252,7 @@
   {
     "id": "3407",
     "code": "FLN",
-    "name": "HercÃ­lio Luz International Airport",
+    "name": "Hercilio Luz International Airport",
     "city": "Florianopolis",
     "country": "Brazil"
   },
@@ -13357,7 +13357,7 @@
   {
     "id": "3140",
     "code": "FMO",
-    "name": "MÃ¼nster OsnabrÃ¼ck Airport",
+    "name": "Munster Osnabruck International Airport",
     "city": "Munster",
     "country": "Germany"
   },
@@ -13413,7 +13413,7 @@
   {
     "id": "5180",
     "code": "FNI",
-    "name": "NÃ®mes-Arles-Camargue Airport",
+    "name": "Nimes Ales Camargue Cevennes Airport",
     "city": "Nimes",
     "country": "France"
   },
