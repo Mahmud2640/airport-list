@@ -13483,7 +13483,7 @@
   {
     "id": "5580",
     "code": "FOG",
-    "name": "Foggia \"Gino Lisa\" Airport",
+    "name": "Foggia Gino Lisa Airport",
     "city": "Foggia",
     "country": "Italy"
   },
@@ -13504,8 +13504,8 @@
   {
     "id": "6077",
     "code": "FON",
-    "name": "Arenal Airport",
-    "city": "La Fortuna/San Carlos",
+    "name": "La Fortuna Arenal Airport",
+    "city": "La Fortuna Arenal",
     "country": "Costa Rica"
   },
   {
