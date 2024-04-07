@@ -13602,14 +13602,14 @@
   {
     "id": "5179",
     "code": "FRJ",
-    "name": "FrÃ©jus Airport",
+    "name": "Frejus Airport",
     "city": "Frejus",
     "country": "France"
   },
   {
     "id": "5613",
     "code": "FRL",
-    "name": "ForlÃ¬ Airport",
+    "name": "Forli Airport",
     "city": "Forli",
     "country": "Italy"
   },
@@ -13630,7 +13630,7 @@
   {
     "id": "4823",
     "code": "FRO",
-    "name": "FlorÃ¸ Airport",
+    "name": "Floro Airport",
     "city": "Floro",
     "country": "Norway"
   },
@@ -13784,7 +13784,7 @@
   {
     "id": "2895",
     "code": "FTU",
-    "name": "TÃ´lanaro Airport",
+    "name": "Tolagnaro Airport",
     "city": "Tolagnaro",
     "country": "Madagascar"
   },
@@ -13994,7 +13994,7 @@
   {
     "id": "4584",
     "code": "GAE",
-    "name": "GabÃ¨s Matmata International Airport",
+    "name": "Gabes-Matmata International Airport",
     "city": "Gabes",
     "country": "Tunisia"
   },
@@ -14330,7 +14330,7 @@
   {
     "id": "4856",
     "code": "GDN",
-    "name": "GdaÅ„sk Lech WaÅ‚Ä™sa Airport",
+    "name": "Gdask Lech Wasa Airport",
     "city": "Gdansk",
     "country": "Poland"
   },
@@ -14386,15 +14386,15 @@
   {
     "id": "6235",
     "code": "GEA",
-    "name": "NoumÃ©a Magenta Airport",
+    "name": "Noumea Magenta Airport",
     "city": "Noumea",
     "country": "New Caledonia"
   },
   {
     "id": "4159",
     "code": "GEC",
-    "name": "GeÃ§itkale Air Base",
-    "city": "Geçitkale",
+    "name": "Gecitkale Airport",
+    "city": "Gecitkale",
     "country": "Cyprus"
   },
   {
@@ -14421,7 +14421,7 @@
   {
     "id": "3452",
     "code": "GEL",
-    "name": "Santo Ã‚ngelo Airport",
+    "name": "Sepe Tiaraju Regional Airport",
     "city": "Santo Angelo",
     "country": "Brazil"
   },
@@ -14463,7 +14463,7 @@
   {
     "id": "4893",
     "code": "GEV",
-    "name": "GÃ¤llivare Airport",
+    "name": "Gallivare Airport",
     "city": "Gallivare",
     "country": "Sweden"
   },
@@ -14596,7 +14596,7 @@
   {
     "id": "4211",
     "code": "GHA",
-    "name": "NoumÃ©rat - Moufdi Zakaria Airport",
+    "name": "Noumerat-Moufdi Zakaria Airport",
     "city": "Ghardaia",
     "country": "Algeria"
   },
@@ -14617,7 +14617,7 @@
   {
     "id": "4165",
     "code": "GHE",
-    "name": "GarachinÃ© Airport",
+    "name": "Garachine Airport",
     "city": "Garachine",
     "country": "Panama"
   },
@@ -14687,7 +14687,7 @@
   {
     "id": "3410",
     "code": "GIG",
-    "name": "Rio GaleÃ£o â€“ Tom Jobim International Airport",
+    "name": "Riogaleao-Tom Jobim International Airport",
     "city": "Rio De Janeiro",
     "country": "Brazil"
   },
@@ -14757,14 +14757,14 @@
   {
     "id": "3412",
     "code": "GJM",
-    "name": "GuajarÃ¡-Mirim Airport",
+    "name": "Aeroporto do Guajara-Mirim",
     "city": "Guajara-mirim",
     "country": "Brazil"
   },
   {
     "id": "3248",
     "code": "GJR",
-    "name": "GjÃ¶gur Airport",
+    "name": "Gjogur Airport",
     "city": "Gjogur",
     "country": "Iceland"
   },
@@ -15065,7 +15065,7 @@
   {
     "id": "5114",
     "code": "GNB",
-    "name": "Grenoble-IsÃ¨re Airport",
+    "name": "Grenoble Alpes Isere Airport",
     "city": "Grenoble",
     "country": "France"
   },
@@ -15142,7 +15142,7 @@
   {
     "id": "5983",
     "code": "GNY",
-    "name": "ÅžanlÄ±urfa GAP Airport",
+    "name": "GAP Sanliurfa Airport",
     "city": "Sanliurfa",
     "country": "Turkey"
   },
@@ -15184,7 +15184,7 @@
   {
     "id": "3219",
     "code": "GOH",
-    "name": "Godthaab / Nuuk Airport",
+    "name": "Nuuk International Airport",
     "city": "Godthaab",
     "country": "Greenland"
   },
@@ -15492,8 +15492,8 @@
   {
     "id": "3249",
     "code": "GRY",
-    "name": "GrÃ­msey Airport",
-    "city": "Grímsey",
+    "name": "Grimsey Airport",
+    "city": "Grimsey",
     "country": "Iceland"
   },
   {
@@ -15534,7 +15534,7 @@
   {
     "id": "5287",
     "code": "GSJ",
-    "name": "San JosÃ© Airport",
+    "name": "San Jose Airport",
     "city": "San Jose",
     "country": "Guatemala"
   },
@@ -15618,7 +15618,7 @@
   {
     "id": "3132",
     "code": "GTI",
-    "name": "RÃ¼gen Airport",
+    "name": "Rugen Airport",
     "city": "Ruegen",
     "country": "Germany"
   },
@@ -15723,7 +15723,7 @@
   {
     "id": "3418",
     "code": "GUJ",
-    "name": "GuaratinguetÃ¡ Airport",
+    "name": "Guaratingueta airport",
     "city": "Guaratingueta",
     "country": "Brazil"
   },
@@ -15779,14 +15779,14 @@
   {
     "id": "3203",
     "code": "GUT",
-    "name": "GÃ¼tersloh Air Base",
+    "name": "Guetersloh Airport",
     "city": "Guetersloh",
     "country": "Germany"
   },
   {
     "id": "3247",
     "code": "GUU",
-    "name": "GrundarfjÃ¶rÃ°ur Airport",
+    "name": "Grundarfjordur Airport",
     "city": "Grundarfjordur",
     "country": "Iceland"
   },
@@ -15870,7 +15870,7 @@
   {
     "id": "4908",
     "code": "GVX",
-    "name": "GÃ¤vle Sandviken Airport",
+    "name": "Gavle-Sandviken Airport",
     "city": "Gavle",
     "country": "Sweden"
   },
@@ -15898,7 +15898,7 @@
   {
     "id": "770",
     "code": "GWO",
-    "name": "Greenwoodâ€“Leflore Airport",
+    "name": "Greenwood-Leflore Airport",
     "city": "Greenwood",
     "country": "United States"
   },
@@ -15968,15 +15968,15 @@
   {
     "id": "787",
     "code": "GXY",
-    "name": "Greeleyâ€“Weld County Airport",
+    "name": "Greeley-Weld County Airport",
     "city": "Greeley",
     "country": "United States"
   },
   {
     "id": "3351",
     "code": "GYA",
-    "name": "CapitÃ¡n de Av. Emilio BeltrÃ¡n Airport",
-    "city": "Guayaramerín",
+    "name": "Capitan de Av. Emilio Beltran Airport",
+    "city": "Guayaramerin",
     "country": "Bolivia"
   },
   {
@@ -15989,7 +15989,7 @@
   {
     "id": "4602",
     "code": "GYE",
-    "name": "JosÃ© JoaquÃ­n de Olmedo International Airport",
+    "name": "José Joaquín de Olmedo International Airport",
     "city": "Guayaquil",
     "country": "Ecuador"
   },
@@ -16017,7 +16017,7 @@
   {
     "id": "2921",
     "code": "GYM",
-    "name": "General JosÃ© MarÃ­a YÃ¡Ã±ez International Airport",
+    "name": "Guaymas International Airport",
     "city": "Guaymas",
     "country": "Mexico"
   },
@@ -16087,7 +16087,7 @@
   {
     "id": "5997",
     "code": "GZP",
-    "name": "GazipaÅŸa Airport",
+    "name": "Gazipasa Alanya Airport",
     "city": "Alanya",
     "country": "Turkey"
   },
@@ -16227,7 +16227,7 @@
   {
     "id": "2395",
     "code": "HAT",
-    "name": "[Duplicate] Heathlands Airport",
+    "name": "Heathlands Airport",
     "city": "",
     "country": "Australia"
   },
@@ -16241,7 +16241,7 @@
   {
     "id": "4144",
     "code": "HAV",
-    "name": "JosÃ© MartÃ­ International Airport",
+    "name": "Jose Marti international Airport (HAV)",
     "city": "Havana",
     "country": "Cuba"
   },
@@ -16486,8 +16486,8 @@
   {
     "id": "3187",
     "code": "HEI",
-    "name": "Heide-BÃ¼sum Airport",
-    "city": "Büsum",
+    "name": "Heide-Busum Airport",
+    "city": "Busum",
     "country": "Germany"
   },
   {
@@ -16549,7 +16549,7 @@
   {
     "id": "6845",
     "code": "HEX",
-    "name": "Herrera Intl Airport (closed in 2006)",
+    "name": "Herrera Intl Airport",
     "city": "Santo Domingo",
     "country": "Dominican Republic"
   },
@@ -16591,7 +16591,7 @@
   {
     "id": "3250",
     "code": "HFN",
-    "name": "HornafjÃ¶rÃ°ur Airport",
+    "name": "Hornafjordur Airport",
     "city": "Hofn",
     "country": "Iceland"
   },
@@ -16647,7 +16647,7 @@
   {
     "id": "3189",
     "code": "HGL",
-    "name": "Helgoland-DÃ¼ne Airport",
+    "name": "Helgoland-Dune Airport",
     "city": "Helgoland",
     "country": "Germany"
   },
