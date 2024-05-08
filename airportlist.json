@@ -17669,7 +17669,7 @@
   {
     "id": "860",
     "code": "HTS",
-    "name": "Tri-State/Milton J. Ferguson Field",
+    "name": "Huntington Tri-State Airport",
     "city": "Huntington",
     "country": "United States"
   },
@@ -17796,7 +17796,7 @@
     "id": "6388",
     "code": "HUU",
     "name": "Alferez Fap David Figueroa Fernandini Airport",
-    "city": "Huánuco",
+    "city": "Huanuco",
     "country": "Peru"
   },
   {
@@ -17809,14 +17809,14 @@
   {
     "id": "3556",
     "code": "HUW",
-    "name": "HumaitÃ¡ Airport",
+    "name": "Humaitai Airport",
     "city": "Humaita",
     "country": "Brazil"
   },
   {
     "id": "2904",
     "code": "HUX",
-    "name": "BahÃ­as de Huatulco International Airport",
+    "name": "Bahas de Huatulco International Airport",
     "city": "Huatulco",
     "country": "Mexico"
   },
@@ -17998,7 +17998,7 @@
   {
     "id": "4629",
     "code": "HYV",
-    "name": "HyvinkÃ¤Ã¤ Airfield",
+    "name": "Hyvinkaa Airfield",
     "city": "Hyvinkaa",
     "country": "Finland"
   },
@@ -18026,7 +18026,7 @@
   {
     "id": "3251",
     "code": "HZK",
-    "name": "HÃºsavÃ­k Airport",
+    "name": "Husavik Airport",
     "city": "Husavik",
     "country": "Iceland"
   },
@@ -18089,7 +18089,7 @@
   {
     "id": "4219",
     "code": "IAM",
-    "name": "In AmÃ©nas Airport",
+    "name": "Aeroport de Zarzaitine - In Amenas",
     "city": "Zarzaitine",
     "country": "Algeria"
   },
@@ -18117,7 +18117,7 @@
   {
     "id": "5928",
     "code": "IAS",
-    "name": "IaÅŸi Airport",
+    "name": "Iaayi Airport",
     "city": "Iasi",
     "country": "Romania"
   },
@@ -18187,7 +18187,7 @@
   {
     "id": "6523",
     "code": "ICC",
-    "name": "AndrÃ©s Miguel Salazar Marcano Airport",
+    "name": "Andras Miguel Salazar Marcano Airport",
     "city": "Isla De Coche",
     "country": "Venezuela"
   },
@@ -18257,7 +18257,7 @@
   {
     "id": "884",
     "code": "IDI",
-    "name": "Indiana County/Jimmy Stewart Fld/ Airport",
+    "name": "Indiana County Airport",
     "city": "",
     "country": "United States"
   },
@@ -50593,7 +50593,7 @@
   {
     "id": "6474",
     "code": "ZOS",
-    "name": "CaÃ±al Bajo Carlos - Hott Siebert Airport",
+    "name": "Canal Bajo Carlos Hott Siebert Airport",
     "city": "Osorno",
     "country": "Chile"
   },
@@ -50607,7 +50607,7 @@
   {
     "id": "6477",
     "code": "ZPC",
-    "name": "PucÃ³n Airport",
+    "name": "Pucon Airport",
     "city": "Pucon",
     "country": "Chile"
   },
@@ -50712,8 +50712,8 @@
   {
     "id": "3690",
     "code": "ZTB",
-    "name": "TÃªte-Ã -la-Baleine Airport",
-    "city": "Tête-à-la-Baleine",
+    "name": "Tete-a-la-Baleine Airport",
+    "city": "Tete-a-la-Baleine",
     "country": "Canada"
   },
   {
